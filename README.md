@@ -15,6 +15,6 @@ so in this app we will fetch data from an API, as a real-time scenario
 
 # 📷Screenshots
 
-<img src="https://github.com/video1 (1).gif" width="48">
+<a href="url"><img src="https://user-images.githubusercontent.com/75988940/112764143-f2f53f00-900f-11eb-9caf-a6c2ba5fcf1b.gif" align="left" height="48" width="48" ></a>
 
-![video1 (1)](https://user-images.githubusercontent.com/75988940/112764143-f2f53f00-900f-11eb-9caf-a6c2ba5fcf1b.gif)
+
