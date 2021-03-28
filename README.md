@@ -14,5 +14,7 @@ so in this app we will fetch data from an API, as a real-time scenario
 6. Custom Loading Animation ProgressBar in Recyclerview
 
 # 📷Screenshots
+![caption](image / GIF)
+
 
 
