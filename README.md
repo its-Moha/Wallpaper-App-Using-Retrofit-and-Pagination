@@ -14,7 +14,8 @@ so in this app we will fetch data from an API, as a real-time scenario
 6. Custom Loading Animation ProgressBar in Recyclerview
 
 # 📷Screenshots
-![caption](image / GIF)
-
+<video width="320" height="240" controls>
+  <source src="ReactManageCourseApp.mp4" type="video/mp4">
+</video>
 
 
